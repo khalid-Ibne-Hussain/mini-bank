@@ -3,6 +3,6 @@
 ### deposit
 ### withdraw
 ## Show
-### Total Deposit
-### Total Withdraw
-### Total Balance
+### total Deposit
+### total Withdraw
+### total Balance
